@@ -62,8 +62,3 @@ Each model's performance is evaluated using accuracy and other relevant metrics.
 - seaborn
 - scikit-learn
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loan-prediction-model.git
